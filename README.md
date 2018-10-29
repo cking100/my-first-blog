@@ -1,0 +1,2 @@
+# my-first-blog
+This is my first ever **django** based blog i have created by following the [tutorial](https://tutorial.djangogirls.org/en) as a task for GCI'2018 under the org [OpenWISP](https://github.com/openwisp). Also, i have deployed it to pythoneverywhere check it out on [here](http://cking100.pythonanywhere.com/).
